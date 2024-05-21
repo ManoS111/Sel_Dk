@@ -1,0 +1,11 @@
+{
+	"firstName":"will",
+	"lastName":"smith",
+	"email":"will@sm.com",
+	"password":"willsmith",
+	"street":"donus street",
+	"city":"las vegas",
+	"zip":"50001",
+	"passengersCount":"4",
+	"expectedPrice":"$2338 USD"
+}

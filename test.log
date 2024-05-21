@@ -1,0 +1,892 @@
+710  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+745  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+13367 [main] INFO  c.p.f.FlightConfirmationPage_05 -- ConfirmationId 2024-1-1705954914399
+13367 [main] INFO  c.p.f.FlightConfirmationPage_05 -- TotalPrice $1169 USD
+2616 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 121.0.6167.85 (resolved driver for Chrome 121)
+2745 [main] INFO  i.g.b.wdm.online.Downloader -- Downloading https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/121.0.6167.85/win64/chromedriver-win64.zip
+4771 [main] INFO  i.g.b.wdm.online.Downloader -- Extracting driver from compressed file chromedriver-win64.zip
+5676 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\121.0.6167.85\chromedriver.exe
+802  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 121.0.6167.85 (resolved driver for Chrome 121)
+834  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\121.0.6167.85\chromedriver.exe
+13108 [main] INFO  c.p.f.FlightConfirmationPage_05 -- ConfirmationId 2024-2-1707042850039
+13109 [main] INFO  c.p.f.FlightConfirmationPage_05 -- TotalPrice $1169 USD
+2597 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 121.0.6167.85 (resolved driver for Chrome 121)
+2748 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\121.0.6167.85\chromedriver.exe
+754  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 121.0.6167.85 (resolved driver for Chrome 121)
+795  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\121.0.6167.85\chromedriver.exe
+11264 [main] INFO  c.p.f.FlightConfirmationPage_05 -- ConfirmationId 2024-2-1707061963009
+11264 [main] INFO  c.p.f.FlightConfirmationPage_05 -- TotalPrice $584 USD
+2690 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.58 (resolved driver for Chrome 123)
+2914 [main] INFO  i.g.b.wdm.online.Downloader -- Downloading https://storage.googleapis.com/chrome-for-testing-public/123.0.6312.58/win64/chromedriver-win64.zip
+5505 [main] INFO  i.g.b.wdm.online.Downloader -- Extracting driver from compressed file chromedriver-win64.zip
+6381 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.58\chromedriver.exe
+825  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.58 (resolved driver for Chrome 123)
+871  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.58\chromedriver.exe
+2277 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.58 (resolved driver for Chrome 123)
+2323 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.58\chromedriver.exe
+656  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.58 (resolved driver for Chrome 123)
+805  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.58\chromedriver.exe
+675  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.58 (resolved driver for Chrome 123)
+713  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.58\chromedriver.exe
+769  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.58 (resolved driver for Chrome 123)
+808  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.58\chromedriver.exe
+758  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.58 (resolved driver for Chrome 123)
+798  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.58\chromedriver.exe
+871  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.58 (resolved driver for Chrome 123)
+906  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.58\chromedriver.exe
+695  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.58 (resolved driver for Chrome 123)
+735  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.58\chromedriver.exe
+1887 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.58 (resolved driver for Chrome 123)
+2066 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.58\chromedriver.exe
+10017 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >8
+659  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.58 (resolved driver for Chrome 123)
+696  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.58\chromedriver.exe
+7431 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >8
+651  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.58 (resolved driver for Chrome 123)
+683  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.58\chromedriver.exe
+5854 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >8
+2126 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.58 (resolved driver for Chrome 123)
+2174 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.58\chromedriver.exe
+8400 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >8
+649  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.58 (resolved driver for Chrome 123)
+692  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.58\chromedriver.exe
+8701 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >8
+431  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: dummy.txt
+434  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: D:\WorkSpace_05_23\Sel_Dk\dummy.txt
+522  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: ./dummy.txt
+470  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: ./dummy.txt
+454  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: ./dummy.txt
+511  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: ./dummy.txt
+453  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: ./dummy.txt
+498  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: dummy.txt
+521  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: dummy.txt
+521  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: dummy.txt
+520  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: dummy.txt
+1053 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: ./test-data/john.json
+1246 [main] ERROR com.pagetest.util.JsonUtil -- Unable to read Test data ./test-data/john.json
+com.fasterxml.jackson.core.JsonParseException: Unexpected character ('}' (code 125)): was expecting double-quote to start field name
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 10, column: 2]
+	at com.fasterxml.jackson.core.JsonParser._constructError(JsonParser.java:2481)
+	at com.fasterxml.jackson.core.base.ParserMinimalBase._reportError(ParserMinimalBase.java:752)
+	at com.fasterxml.jackson.core.base.ParserMinimalBase._reportUnexpectedChar(ParserMinimalBase.java:676)
+	at com.fasterxml.jackson.core.json.UTF8StreamJsonParser._handleOddName(UTF8StreamJsonParser.java:2147)
+	at com.fasterxml.jackson.core.json.UTF8StreamJsonParser._parseName(UTF8StreamJsonParser.java:1797)
+	at com.fasterxml.jackson.core.json.UTF8StreamJsonParser.nextFieldName(UTF8StreamJsonParser.java:1084)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.vanillaDeserialize(BeanDeserializer.java:317)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserializer.java:177)
+	at com.fasterxml.jackson.databind.deser.DefaultDeserializationContext.readRootValue(DefaultDeserializationContext.java:342)
+	at com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:4899)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3883)
+	at com.pagetest.util.JsonUtil.getTestData(JsonUtil.java:19)
+	at com.pagetest.util.Demo2.main(Demo2.java:8)
+909  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: /test-data/john.json
+917  [main] ERROR com.pagetest.util.JsonUtil -- Unable to read Test data /test-data/john.json
+java.nio.file.NoSuchFileException: \test-data\john.json
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:235)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:371)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:422)
+	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:420)
+	at java.base/java.nio.file.Files.newInputStream(Files.java:156)
+	at com.pagetest.util.ResourceLoader.getResource(ResourceLoader.java:26)
+	at com.pagetest.util.JsonUtil.getTestData(JsonUtil.java:18)
+	at com.pagetest.util.Demo2.main(Demo2.java:8)
+952  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: /Sel_Dk/src/test/resources/test-data/john.json
+962  [main] ERROR com.pagetest.util.JsonUtil -- Unable to read Test data /Sel_Dk/src/test/resources/test-data/john.json
+java.nio.file.NoSuchFileException: \Sel_Dk\src\test\resources\test-data\john.json
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:235)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:371)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:422)
+	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:420)
+	at java.base/java.nio.file.Files.newInputStream(Files.java:156)
+	at com.pagetest.util.ResourceLoader.getResource(ResourceLoader.java:26)
+	at com.pagetest.util.JsonUtil.getTestData(JsonUtil.java:18)
+	at com.pagetest.util.Demo2.main(Demo2.java:8)
+444  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/sam.json
+1264 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: /test-data/sam.json
+1273 [main] ERROR com.pagetest.util.JsonUtil -- Unable to read Test data /test-data/sam.json
+java.nio.file.NoSuchFileException: \test-data\sam.json
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:235)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:371)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:422)
+	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:420)
+	at java.base/java.nio.file.Files.newInputStream(Files.java:156)
+	at com.pagetest.util.ResourceLoader.getResource(ResourceLoader.java:26)
+	at com.pagetest.util.JsonUtil.getTestData(JsonUtil.java:18)
+	at com.pagetest.util.Demo2.main(Demo2.java:8)
+908  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: /test-data/sam.json
+917  [main] ERROR com.pagetest.util.JsonUtil -- Unable to read Test data /test-data/sam.json
+java.nio.file.NoSuchFileException: \test-data\sam.json
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:235)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:371)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:422)
+	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:420)
+	at java.base/java.nio.file.Files.newInputStream(Files.java:156)
+	at com.pagetest.util.ResourceLoader.getResource(ResourceLoader.java:26)
+	at com.pagetest.util.JsonUtil.getTestData(JsonUtil.java:20)
+	at com.pagetest.util.Demo2.main(Demo2.java:8)
+445  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/sam.json
+897  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: /test-data/sam.json
+905  [main] ERROR com.pagetest.util.JsonUtil -- Unable to read Test data /test-data/sam.json
+java.nio.file.NoSuchFileException: \test-data\sam.json
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:235)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:371)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:422)
+	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:420)
+	at java.base/java.nio.file.Files.newInputStream(Files.java:156)
+	at com.pagetest.util.ResourceLoader.getResource(ResourceLoader.java:26)
+	at com.pagetest.util.JsonUtil.getTestData(JsonUtil.java:20)
+	at com.pagetest.util.Demo2.main(Demo2.java:8)
+1287 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: /test-data/sam.json
+1318 [main] ERROR com.pagetest.util.JsonUtil -- Unable to read Test data /test-data/sam.json
+java.nio.file.NoSuchFileException: \test-data\sam.json
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:235)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:371)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:422)
+	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:420)
+	at java.base/java.nio.file.Files.newInputStream(Files.java:156)
+	at com.pagetest.util.ResourceLoader.getResource(ResourceLoader.java:27)
+	at com.pagetest.util.JsonUtil.getTestData(JsonUtil.java:20)
+	at com.pagetest.util.Demo2.main(Demo2.java:8)
+452  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/sam.json
+889  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/sam.json
+945  [main] ERROR com.pagetest.util.JsonUtil -- Unable to read Test data test-data/sam.json
+com.fasterxml.jackson.databind.exc.MismatchedInputException: No content to map due to end-of-input
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 1]
+	at com.fasterxml.jackson.databind.exc.MismatchedInputException.from(MismatchedInputException.java:59)
+	at com.fasterxml.jackson.databind.ObjectMapper._initForReading(ObjectMapper.java:4990)
+	at com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:4892)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3846)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3814)
+	at com.pagetest.util.JsonUtil.getTestData(JsonUtil.java:22)
+	at com.pagetest.util.Demo2.main(Demo2.java:8)
+950  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/sam.json
+1118 [main] ERROR com.pagetest.util.JsonUtil -- Unable to read Test data test-data/sam.json
+com.fasterxml.jackson.core.JsonParseException: Unexpected character ('}' (code 125)): was expecting double-quote to start field name
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 10, column: 2]
+	at com.fasterxml.jackson.core.JsonParser._constructError(JsonParser.java:2481)
+	at com.fasterxml.jackson.core.base.ParserMinimalBase._reportError(ParserMinimalBase.java:752)
+	at com.fasterxml.jackson.core.base.ParserMinimalBase._reportUnexpectedChar(ParserMinimalBase.java:676)
+	at com.fasterxml.jackson.core.json.UTF8StreamJsonParser._handleOddName(UTF8StreamJsonParser.java:2147)
+	at com.fasterxml.jackson.core.json.UTF8StreamJsonParser._parseName(UTF8StreamJsonParser.java:1797)
+	at com.fasterxml.jackson.core.json.UTF8StreamJsonParser.nextFieldName(UTF8StreamJsonParser.java:1084)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.vanillaDeserialize(BeanDeserializer.java:317)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserializer.java:177)
+	at com.fasterxml.jackson.databind.deser.DefaultDeserializationContext.readRootValue(DefaultDeserializationContext.java:342)
+	at com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:4899)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3883)
+	at com.pagetest.util.JsonUtil.getTestData(JsonUtil.java:24)
+	at com.pagetest.util.Demo2.main(Demo2.java:8)
+905  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/sam.json
+1071 [main] ERROR com.pagetest.util.JsonUtil -- Unable to read Test data test-data/sam.json
+com.fasterxml.jackson.core.JsonParseException: Unexpected character ('}' (code 125)): was expecting double-quote to start field name
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 10, column: 2]
+	at com.fasterxml.jackson.core.JsonParser._constructError(JsonParser.java:2481)
+	at com.fasterxml.jackson.core.base.ParserMinimalBase._reportError(ParserMinimalBase.java:752)
+	at com.fasterxml.jackson.core.base.ParserMinimalBase._reportUnexpectedChar(ParserMinimalBase.java:676)
+	at com.fasterxml.jackson.core.json.UTF8StreamJsonParser._handleOddName(UTF8StreamJsonParser.java:2147)
+	at com.fasterxml.jackson.core.json.UTF8StreamJsonParser._parseName(UTF8StreamJsonParser.java:1797)
+	at com.fasterxml.jackson.core.json.UTF8StreamJsonParser.nextFieldName(UTF8StreamJsonParser.java:1084)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.vanillaDeserialize(BeanDeserializer.java:317)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserializer.java:177)
+	at com.fasterxml.jackson.databind.deser.DefaultDeserializationContext.readRootValue(DefaultDeserializationContext.java:342)
+	at com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:4899)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3883)
+	at com.pagetest.util.JsonUtil.getTestData(JsonUtil.java:24)
+	at com.pagetest.util.Demo2.main(Demo2.java:8)
+1013 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/sam.json
+2384 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.58 (resolved driver for Chrome 123)
+2469 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.58\chromedriver.exe
+5984 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.58 (resolved driver for Chrome 123)
+6019 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.58\chromedriver.exe
+8661 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.58 (resolved driver for Chrome 123)
+8687 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.58\chromedriver.exe
+847  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/sam.json
+672  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.58 (resolved driver for Chrome 123)
+712  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.58\chromedriver.exe
+654  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.58 (resolved driver for Chrome 123)
+691  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.58\chromedriver.exe
+3416 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+3666 [main] INFO  i.g.b.wdm.online.Downloader -- Downloading https://storage.googleapis.com/chrome-for-testing-public/123.0.6312.86/win64/chromedriver-win64.zip
+6181 [main] INFO  i.g.b.wdm.online.Downloader -- Extracting driver from compressed file chromedriver-win64.zip
+6852 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+888  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+940  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+1595 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+1746 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+731  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+778  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+3350 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/sam.json
+7814 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >8
+1723 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+1815 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+4957 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/sam.json
+14419 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >8
+16742 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+16762 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+18158 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/mike.json
+22866 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >10
+24868 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+24894 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+26186 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/john.json
+29575 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >0
+2324 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+2533 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+5705 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/sam.json
+9795 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >8
+12311 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+12329 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+13675 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/mike.json
+17227 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >10
+19075 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+19125 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+20410 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/john.json
+24121 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >0
+703  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+762  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+5080 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/sam.json
+9801 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >8
+11704 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+11736 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+14202 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/mike.json
+18689 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >10
+20864 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+20885 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+22472 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/john.json
+26994 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >0
+884  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+923  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+4287 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/sam.json
+8523 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >8
+10453 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+10499 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+11876 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/mike.json
+15310 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >10
+18295 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+18335 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+19627 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/john.json
+24344 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >0
+673  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+745  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+3685 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/sam.json
+7862 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >8
+10007 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+10028 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+11274 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/mike.json
+13822 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >10
+15920 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+15965 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+17366 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/john.json
+21978 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >0
+746  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+788  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+4893 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/sam.json
+8739 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >8
+10795 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+10829 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+13173 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/mike.json
+16392 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >10
+17980 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+18053 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+20121 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/john.json
+22532 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >0
+742  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+786  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+5301 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/sam.json
+8566 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >8
+11440 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+11467 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+12976 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/mike.json
+799  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+850  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+4031 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/sam.json
+653  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+707  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+3734 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/sam.json
+7049 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >8
+833  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+878  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+4543 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/sam.json
+8849 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >8
+10762 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+10814 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+12892 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/mike.json
+16666 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >10
+18212 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+18253 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+19798 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/john.json
+22416 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >0
+1439 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+1506 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+4601 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/sam.json
+8442 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >8
+9861 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+9883 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+621  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+660  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+2663 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/sam.json
+6238 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >8
+816  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+857  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+3540 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/sam.json
+9842 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >8
+12199 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+12219 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+13585 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/mike.json
+17307 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >10
+19639 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+19657 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+20865 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/john.json
+23083 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >0
+749  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+794  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+3274 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/sam.json
+6032 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >8
+7494 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+7516 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+8797 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/mike.json
+649  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+698  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+3077 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/sam.json
+631  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+667  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+3322 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/sam.json
+2028 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/sam.json
+9068 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >8
+12159 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/mike.json
+16301 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >10
+19249 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/john.json
+23039 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >0
+590  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/sam.json
+5959 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >8
+8795 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/mike.json
+13524 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >10
+15984 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/john.json
+21005 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >0
+383  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/sam.json
+5503 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >8
+8132 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/mike.json
+12249 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >10
+14665 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/john.json
+751  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/sam.json
+8805 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >8
+25444 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/mike.json
+32398 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >10
+37871 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/john.json
+43327 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >0
+2039 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+2140 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+2715 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+2733 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+6548 [TestNG-tests-2] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/mike.json
+6548 [TestNG-tests-1] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/sam.json
+10243 [TestNG-tests-1] INFO  c.pages.vendorportal.DashboardPage -- Result Count >8
+12695 [TestNG-tests-2] INFO  c.pages.vendorportal.DashboardPage -- Result Count >10
+16642 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+16667 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+17945 [TestNG-tests-3] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/john.json
+20390 [TestNG-tests-3] INFO  c.pages.vendorportal.DashboardPage -- Result Count >0
+2208 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+2208 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+2297 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+2297 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+2774 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.86 (resolved driver for Chrome 123)
+2801 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.86\chromedriver.exe
+8637 [TestNG-tests-3] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/john.json
+8637 [TestNG-tests-1] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/sam.json
+8637 [TestNG-tests-2] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/mike.json
+14837 [TestNG-tests-3] INFO  c.pages.vendorportal.DashboardPage -- Result Count >0
+15104 [TestNG-tests-1] INFO  c.pages.vendorportal.DashboardPage -- Result Count >8
+16579 [TestNG-tests-2] INFO  c.pages.vendorportal.DashboardPage -- Result Count >10
+997  [TestNG-tests-2] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/mike.json
+997  [TestNG-tests-1] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/sam.json
+997  [TestNG-tests-3] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/john.json
+10790 [TestNG-tests-2] INFO  c.pages.vendorportal.DashboardPage -- Result Count >10
+10902 [TestNG-tests-3] INFO  c.pages.vendorportal.DashboardPage -- Result Count >0
+11025 [TestNG-tests-1] INFO  c.pages.vendorportal.DashboardPage -- Result Count >8
+976  [TestNG-tests-1] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/flightreservation/passenger-1.json
+976  [TestNG-tests-4] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/flightreservation/passenger-4.json
+976  [TestNG-tests-3] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/flightreservation/passenger-3.json
+5092 [TestNG-tests-2] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/flightreservation/passenger-2.json
+15825 [TestNG-tests-4] INFO  c.p.f.FlightConfirmationPage_05 -- ConfirmationId 2024-3-1711907501249
+15825 [TestNG-tests-4] INFO  c.p.f.FlightConfirmationPage_05 -- TotalPrice $2338 USD
+17035 [TestNG-tests-2] INFO  c.p.f.FlightConfirmationPage_05 -- ConfirmationId 2024-3-1711907502264
+17035 [TestNG-tests-2] INFO  c.p.f.FlightConfirmationPage_05 -- TotalPrice $584 USD
+17276 [TestNG-tests-3] INFO  c.p.f.FlightConfirmationPage_05 -- ConfirmationId 2024-3-1711907502878
+17276 [TestNG-tests-3] INFO  c.p.f.FlightConfirmationPage_05 -- TotalPrice $1753 USD
+17303 [TestNG-tests-1] INFO  c.p.f.FlightConfirmationPage_05 -- ConfirmationId 2024-3-1711907502504
+17304 [TestNG-tests-1] INFO  c.p.f.FlightConfirmationPage_05 -- TotalPrice $1169 USD
+978  [TestNG-tests-3] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/flightreservation/passenger-3.json
+978  [TestNG-tests-4] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/flightreservation/passenger-4.json
+978  [TestNG-tests-1] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/flightreservation/passenger-1.json
+978  [TestNG-tests-2] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/flightreservation/passenger-2.json
+16515 [TestNG-tests-2] INFO  c.p.f.FlightConfirmationPage_05 -- ConfirmationId 2024-4-1712077696915
+16515 [TestNG-tests-2] INFO  c.p.f.FlightConfirmationPage_05 -- TotalPrice $584 USD
+18237 [TestNG-tests-1] INFO  c.p.f.FlightConfirmationPage_05 -- ConfirmationId 2024-4-1712077698772
+18238 [TestNG-tests-1] INFO  c.p.f.FlightConfirmationPage_05 -- TotalPrice $1169 USD
+19003 [TestNG-tests-3] INFO  c.p.f.FlightConfirmationPage_05 -- ConfirmationId 2024-4-1712077699771
+19004 [TestNG-tests-3] INFO  c.p.f.FlightConfirmationPage_05 -- TotalPrice $1753 USD
+19226 [TestNG-tests-4] INFO  c.p.f.FlightConfirmationPage_05 -- ConfirmationId 2024-4-1712077700068
+19226 [TestNG-tests-4] INFO  c.p.f.FlightConfirmationPage_05 -- TotalPrice $2338 USD
+535  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: config/default.properties
+365  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: config/default.properties
+403  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: config/default.properties
+533  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: config/default.properties
+541  [main] INFO  com.pagetest.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+542  [main] INFO  com.pagetest.util.Config -- browser=chrome
+542  [main] INFO  com.pagetest.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+542  [main] INFO  com.pagetest.util.Config -- selenium.grid.enabled=false
+542  [main] INFO  com.pagetest.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+543  [main] INFO  com.pagetest.util.Config -- selenium.grid.hubHost=localhost
+593  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: config/default.properties
+602  [main] INFO  com.pagetest.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+603  [main] INFO  com.pagetest.util.Config -- browser=chrome
+603  [main] INFO  com.pagetest.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+603  [main] INFO  com.pagetest.util.Config -- selenium.grid.enabled=false
+603  [main] INFO  com.pagetest.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+603  [main] INFO  com.pagetest.util.Config -- selenium.grid.hubHost=localhost
+436  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: config/default.properties
+445  [main] INFO  com.pagetest.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+445  [main] INFO  com.pagetest.util.Config -- browser=chrome
+445  [main] INFO  com.pagetest.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+445  [main] INFO  com.pagetest.util.Config -- selenium.grid.enabled=false
+446  [main] INFO  com.pagetest.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+447  [main] INFO  com.pagetest.util.Config -- selenium.grid.hubHost=localhost
+409  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: config/default.properties
+416  [main] INFO  com.pagetest.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+416  [main] INFO  com.pagetest.util.Config -- browser=firefox
+416  [main] INFO  com.pagetest.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+417  [main] INFO  com.pagetest.util.Config -- selenium.grid.enabled=false
+417  [main] INFO  com.pagetest.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+417  [main] INFO  com.pagetest.util.Config -- selenium.grid.hubHost=localhost
+613  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: config/default.properties
+634  [main] INFO  com.pagetest.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+635  [main] INFO  com.pagetest.util.Config -- browser=chrome
+635  [main] INFO  com.pagetest.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+636  [main] INFO  com.pagetest.util.Config -- selenium.grid.enabled=false
+636  [main] INFO  com.pagetest.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+637  [main] INFO  com.pagetest.util.Config -- selenium.grid.hubHost=localhost
+3535 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.105 (resolved driver for Chrome 123)
+3538 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.105 (resolved driver for Chrome 123)
+3539 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.105 (resolved driver for Chrome 123)
+3747 [TestNG-tests-2] INFO  i.g.b.wdm.online.Downloader -- Downloading https://storage.googleapis.com/chrome-for-testing-public/123.0.6312.105/win64/chromedriver-win64.zip
+3747 [TestNG-tests-1] INFO  i.g.b.wdm.online.Downloader -- Downloading https://storage.googleapis.com/chrome-for-testing-public/123.0.6312.105/win64/chromedriver-win64.zip
+3747 [TestNG-tests-3] INFO  i.g.b.wdm.online.Downloader -- Downloading https://storage.googleapis.com/chrome-for-testing-public/123.0.6312.105/win64/chromedriver-win64.zip
+21332 [TestNG-tests-3] INFO  i.g.b.wdm.online.Downloader -- Extracting driver from compressed file chromedriver-win64.zip
+22065 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe
+26080 [TestNG-tests-1] INFO  i.g.b.wdm.online.Downloader -- Extracting driver from compressed file chromedriver-win64.zip
+26967 [TestNG-tests-2] INFO  i.g.b.wdm.online.Downloader -- Extracting driver from compressed file chromedriver-win64.zip
+29236 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe
+29236 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe
+29739 [TestNG-tests-3] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/john.json
+32477 [TestNG-tests-1] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/sam.json
+32476 [TestNG-tests-2] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/mike.json
+50607 [TestNG-tests-3] INFO  c.pages.vendorportal.DashboardPage -- Result Count >0
+63419 [TestNG-tests-2] INFO  c.pages.vendorportal.DashboardPage -- Result Count >10
+64746 [TestNG-tests-1] INFO  c.pages.vendorportal.DashboardPage -- Result Count >8
+367  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: config/default.properties
+372  [main] INFO  com.pagetest.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+372  [main] INFO  com.pagetest.util.Config -- browser=chrome
+372  [main] INFO  com.pagetest.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+372  [main] INFO  com.pagetest.util.Config -- selenium.grid.enabled=false
+372  [main] INFO  com.pagetest.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+372  [main] INFO  com.pagetest.util.Config -- selenium.grid.hubHost=localhost
+1247 [TestNG-tests-4] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.105 (resolved driver for Chrome 123)
+1247 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.105 (resolved driver for Chrome 123)
+1247 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.105 (resolved driver for Chrome 123)
+1247 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.105 (resolved driver for Chrome 123)
+1367 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe
+1367 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe
+1367 [TestNG-tests-4] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe
+1367 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe
+6354 [TestNG-tests-3] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/flightreservation/passenger-3.json
+6354 [TestNG-tests-2] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/flightreservation/passenger-2.json
+6353 [TestNG-tests-1] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/flightreservation/passenger-1.json
+6354 [TestNG-tests-4] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/flightreservation/passenger-4.json
+327  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: config/default.properties
+332  [main] INFO  com.pagetest.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+333  [main] INFO  com.pagetest.util.Config -- browser=chrome
+333  [main] INFO  com.pagetest.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+333  [main] INFO  com.pagetest.util.Config -- selenium.grid.enabled=false
+333  [main] INFO  com.pagetest.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+333  [main] INFO  com.pagetest.util.Config -- selenium.grid.hubHost=localhost
+1032 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.105 (resolved driver for Chrome 123)
+1031 [TestNG-tests-4] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.105 (resolved driver for Chrome 123)
+1031 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.105 (resolved driver for Chrome 123)
+1031 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.105 (resolved driver for Chrome 123)
+1158 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe
+1187 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe
+1184 [TestNG-tests-4] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe
+1202 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe
+7006 [TestNG-tests-1] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/flightreservation/passenger-1.json
+7006 [TestNG-tests-3] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/flightreservation/passenger-3.json
+7006 [TestNG-tests-2] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/flightreservation/passenger-2.json
+7006 [TestNG-tests-4] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/flightreservation/passenger-4.json
+406  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: config/default.properties
+411  [main] INFO  com.pagetest.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+411  [main] INFO  com.pagetest.util.Config -- browser=chrome
+411  [main] INFO  com.pagetest.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+411  [main] INFO  com.pagetest.util.Config -- selenium.grid.enabled=false
+411  [main] INFO  com.pagetest.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+411  [main] INFO  com.pagetest.util.Config -- selenium.grid.hubHost=localhost
+841  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.105 (resolved driver for Chrome 123)
+876  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe
+3172 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/flightreservation/passenger-1.json
+8079 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.105 (resolved driver for Chrome 123)
+8102 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe
+9505 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/flightreservation/passenger-2.json
+13352 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.105 (resolved driver for Chrome 123)
+13386 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe
+14626 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/flightreservation/passenger-3.json
+18487 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.105 (resolved driver for Chrome 123)
+18512 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe
+19825 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/flightreservation/passenger-4.json
+312  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: config/default.properties
+318  [main] INFO  com.pagetest.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+318  [main] INFO  com.pagetest.util.Config -- browser=chrome
+318  [main] INFO  com.pagetest.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+318  [main] INFO  com.pagetest.util.Config -- selenium.grid.enabled=false
+318  [main] INFO  com.pagetest.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+318  [main] INFO  com.pagetest.util.Config -- selenium.grid.hubHost=localhost
+780  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.105 (resolved driver for Chrome 123)
+822  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe
+316  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: config/default.properties
+322  [main] INFO  com.pagetest.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+322  [main] INFO  com.pagetest.util.Config -- browser=chrome
+322  [main] INFO  com.pagetest.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+322  [main] INFO  com.pagetest.util.Config -- selenium.grid.enabled=false
+322  [main] INFO  com.pagetest.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+322  [main] INFO  com.pagetest.util.Config -- selenium.grid.hubHost=localhost
+751  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.105 (resolved driver for Chrome 123)
+787  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe
+3158 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/flightreservation/passenger-1.json
+313  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: config/default.properties
+318  [main] INFO  com.pagetest.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+318  [main] INFO  com.pagetest.util.Config -- browser=chrome
+319  [main] INFO  com.pagetest.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+319  [main] INFO  com.pagetest.util.Config -- selenium.grid.enabled=false
+319  [main] INFO  com.pagetest.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+319  [main] INFO  com.pagetest.util.Config -- selenium.grid.hubHost=localhost
+752  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.105 (resolved driver for Chrome 123)
+795  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe
+3068 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/flightreservation/passenger-1.json
+363  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: config/default.properties
+369  [main] INFO  com.pagetest.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+369  [main] INFO  com.pagetest.util.Config -- browser=chrome
+369  [main] INFO  com.pagetest.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+369  [main] INFO  com.pagetest.util.Config -- selenium.grid.enabled=false
+369  [main] INFO  com.pagetest.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+369  [main] INFO  com.pagetest.util.Config -- selenium.grid.hubHost=localhost
+892  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.105 (resolved driver for Chrome 123)
+954  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe
+3639 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/flightreservation/passenger-1.json
+307  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: config/default.properties
+313  [main] INFO  com.pagetest.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+313  [main] INFO  com.pagetest.util.Config -- browser=chrome
+314  [main] INFO  com.pagetest.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+314  [main] INFO  com.pagetest.util.Config -- selenium.grid.enabled=false
+314  [main] INFO  com.pagetest.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+314  [main] INFO  com.pagetest.util.Config -- selenium.grid.hubHost=localhost
+804  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.105 (resolved driver for Chrome 123)
+844  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe
+3276 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/flightreservation/passenger-1.json
+294  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: config/default.properties
+299  [main] INFO  com.pagetest.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+300  [main] INFO  com.pagetest.util.Config -- browser=chrome
+300  [main] INFO  com.pagetest.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+300  [main] INFO  com.pagetest.util.Config -- selenium.grid.enabled=false
+300  [main] INFO  com.pagetest.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+300  [main] INFO  com.pagetest.util.Config -- selenium.grid.hubHost=localhost
+1929 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.105 (resolved driver for Chrome 123)
+1983 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe
+4752 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/flightreservation/passenger-1.json
+286  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: config/default.properties
+291  [main] INFO  com.pagetest.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+292  [main] INFO  com.pagetest.util.Config -- browser=chrome
+292  [main] INFO  com.pagetest.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+292  [main] INFO  com.pagetest.util.Config -- selenium.grid.enabled=false
+292  [main] INFO  com.pagetest.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+292  [main] INFO  com.pagetest.util.Config -- selenium.grid.hubHost=localhost
+738  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.105 (resolved driver for Chrome 123)
+783  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe
+436  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: config/default.properties
+442  [main] INFO  com.pagetest.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+442  [main] INFO  com.pagetest.util.Config -- browser=chrome
+442  [main] INFO  com.pagetest.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+442  [main] INFO  com.pagetest.util.Config -- selenium.grid.enabled=false
+442  [main] INFO  com.pagetest.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+442  [main] INFO  com.pagetest.util.Config -- selenium.grid.hubHost=localhost
+982  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.105 (resolved driver for Chrome 123)
+1028 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe
+3571 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/flightreservation/passenger-1.json
+370  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: config/default.properties
+375  [main] INFO  com.pagetest.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+376  [main] INFO  com.pagetest.util.Config -- browser=chrome
+376  [main] INFO  com.pagetest.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+376  [main] INFO  com.pagetest.util.Config -- selenium.grid.enabled=false
+376  [main] INFO  com.pagetest.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+376  [main] INFO  com.pagetest.util.Config -- selenium.grid.hubHost=localhost
+824  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.105 (resolved driver for Chrome 123)
+862  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe
+3290 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/flightreservation/passenger-1.json
+15855 [main] INFO  c.p.f.FlightConfirmationPage_05 -- ConfirmationId 2024-4-1712472269666
+15856 [main] INFO  c.p.f.FlightConfirmationPage_05 -- TotalPrice $1169 USD
+355  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: config/default.properties
+361  [main] INFO  com.pagetest.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+361  [main] INFO  com.pagetest.util.Config -- browser=chrome
+361  [main] INFO  com.pagetest.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+361  [main] INFO  com.pagetest.util.Config -- selenium.grid.enabled=false
+362  [main] INFO  com.pagetest.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+362  [main] INFO  com.pagetest.util.Config -- selenium.grid.hubHost=localhost
+820  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.105 (resolved driver for Chrome 123)
+865  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe
+3176 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/flightreservation/passenger-1.json
+10166 [main] INFO  c.p.f.FlightConfirmationPage_05 -- ConfirmationId 2024-4-1712472438926
+10166 [main] INFO  c.p.f.FlightConfirmationPage_05 -- TotalPrice $1169 USD
+10314 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.105 (resolved driver for Chrome 123)
+10377 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe
+11807 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/flightreservation/passenger-2.json
+20306 [main] INFO  c.p.f.FlightConfirmationPage_05 -- ConfirmationId 2024-4-1712472449086
+20307 [main] INFO  c.p.f.FlightConfirmationPage_05 -- TotalPrice $584 USD
+20355 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.105 (resolved driver for Chrome 123)
+20390 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe
+21831 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/flightreservation/passenger-3.json
+30210 [main] INFO  c.p.f.FlightConfirmationPage_05 -- ConfirmationId 2024-4-1712472458577
+30210 [main] INFO  c.p.f.FlightConfirmationPage_05 -- TotalPrice $1753 USD
+30284 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.105 (resolved driver for Chrome 123)
+30346 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe
+32150 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/flightreservation/passenger-4.json
+42121 [main] INFO  c.p.f.FlightConfirmationPage_05 -- ConfirmationId 2024-4-1712472470483
+42121 [main] INFO  c.p.f.FlightConfirmationPage_05 -- TotalPrice $2338 USD
+391  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: config/default.properties
+396  [main] INFO  com.pagetest.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+396  [main] INFO  com.pagetest.util.Config -- browser=chrome
+396  [main] INFO  com.pagetest.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+396  [main] INFO  com.pagetest.util.Config -- selenium.grid.enabled=false
+396  [main] INFO  com.pagetest.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+396  [main] INFO  com.pagetest.util.Config -- selenium.grid.hubHost=localhost
+1437 [TestNG-tests-4] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.105 (resolved driver for Chrome 123)
+1437 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.105 (resolved driver for Chrome 123)
+1437 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.105 (resolved driver for Chrome 123)
+1437 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.105 (resolved driver for Chrome 123)
+1532 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe
+1532 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe
+1532 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe
+1534 [TestNG-tests-4] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe
+6882 [TestNG-tests-1] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/flightreservation/passenger-1.json
+6882 [TestNG-tests-4] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/flightreservation/passenger-4.json
+6882 [TestNG-tests-2] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/flightreservation/passenger-2.json
+6882 [TestNG-tests-3] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/flightreservation/passenger-3.json
+20505 [TestNG-tests-1] INFO  c.p.f.FlightConfirmationPage_05 -- ConfirmationId 2024-4-1712472530828
+20505 [TestNG-tests-1] INFO  c.p.f.FlightConfirmationPage_05 -- TotalPrice $1169 USD
+20961 [TestNG-tests-2] INFO  c.p.f.FlightConfirmationPage_05 -- ConfirmationId 2024-4-1712472531044
+20961 [TestNG-tests-2] INFO  c.p.f.FlightConfirmationPage_05 -- TotalPrice $584 USD
+21000 [TestNG-tests-3] INFO  c.p.f.FlightConfirmationPage_05 -- ConfirmationId 2024-4-1712472531376
+21001 [TestNG-tests-3] INFO  c.p.f.FlightConfirmationPage_05 -- TotalPrice $1753 USD
+21720 [TestNG-tests-4] INFO  c.p.f.FlightConfirmationPage_05 -- ConfirmationId 2024-4-1712472531861
+21721 [TestNG-tests-4] INFO  c.p.f.FlightConfirmationPage_05 -- TotalPrice $2338 USD
+443  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: config/default.properties
+449  [main] INFO  com.pagetest.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+449  [main] INFO  com.pagetest.util.Config -- browser=chrome
+449  [main] INFO  com.pagetest.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+449  [main] INFO  com.pagetest.util.Config -- selenium.grid.enabled=false
+450  [main] INFO  com.pagetest.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+450  [main] INFO  com.pagetest.util.Config -- selenium.grid.hubHost=localhost
+2443 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.105 (resolved driver for Chrome 123)
+2443 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.105 (resolved driver for Chrome 123)
+2443 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.105 (resolved driver for Chrome 123)
+2570 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe
+2570 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe
+2570 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe
+7872 [TestNG-tests-2] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/mike.json
+7872 [TestNG-tests-1] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/sam.json
+7875 [TestNG-tests-3] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/john.json
+14016 [TestNG-tests-1] INFO  c.pages.vendorportal.DashboardPage -- Result Count >8
+14083 [TestNG-tests-2] INFO  c.pages.vendorportal.DashboardPage -- Result Count >10
+15080 [TestNG-tests-3] INFO  c.pages.vendorportal.DashboardPage -- Result Count >0
+376  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: config/default.properties
+381  [main] INFO  com.pagetest.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+382  [main] INFO  com.pagetest.util.Config -- browser=chrome
+382  [main] INFO  com.pagetest.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+382  [main] INFO  com.pagetest.util.Config -- selenium.grid.enabled=true
+382  [main] INFO  com.pagetest.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+382  [main] INFO  com.pagetest.util.Config -- selenium.grid.hubHost=localhost
+496  [TestNG-tests-3] INFO  com.pagetest.AbstractTest -- grid url: http://localhost:4444/wd/hub
+496  [TestNG-tests-1] INFO  com.pagetest.AbstractTest -- grid url: http://localhost:4444/wd/hub
+496  [TestNG-tests-2] INFO  com.pagetest.AbstractTest -- grid url: http://localhost:4444/wd/hub
+11768 [TestNG-tests-1] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/sam.json
+11769 [TestNG-tests-2] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/mike.json
+11768 [TestNG-tests-3] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/john.json
+21578 [TestNG-tests-1] INFO  c.pages.vendorportal.DashboardPage -- Result Count >8
+23015 [TestNG-tests-2] INFO  c.pages.vendorportal.DashboardPage -- Result Count >10
+23030 [TestNG-tests-3] INFO  c.pages.vendorportal.DashboardPage -- Result Count >0
+365  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: config/default.properties
+371  [main] INFO  com.pagetest.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+371  [main] INFO  com.pagetest.util.Config -- browser=chrome
+371  [main] INFO  com.pagetest.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+371  [main] INFO  com.pagetest.util.Config -- selenium.grid.enabled=false
+371  [main] INFO  com.pagetest.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+371  [main] INFO  com.pagetest.util.Config -- selenium.grid.hubHost=localhost
+1212 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.105 (resolved driver for Chrome 123)
+1212 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.105 (resolved driver for Chrome 123)
+1212 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.105 (resolved driver for Chrome 123)
+1334 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe
+1334 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe
+1334 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe
+7267 [TestNG-tests-3] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/john.json
+7267 [TestNG-tests-2] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/mike.json
+7267 [TestNG-tests-1] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/sam.json
+18709 [TestNG-tests-1] INFO  c.pages.vendorportal.DashboardPage -- Result Count >8
+18734 [TestNG-tests-3] INFO  c.pages.vendorportal.DashboardPage -- Result Count >0
+18855 [TestNG-tests-2] INFO  c.pages.vendorportal.DashboardPage -- Result Count >10
+423  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: config/default.properties
+428  [main] INFO  com.pagetest.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+429  [main] INFO  com.pagetest.util.Config -- browser=chrome
+429  [main] INFO  com.pagetest.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+429  [main] INFO  com.pagetest.util.Config -- selenium.grid.enabled=true
+429  [main] INFO  com.pagetest.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+429  [main] INFO  com.pagetest.util.Config -- selenium.grid.hubHost=localhost
+496  [TestNG-tests-1] INFO  com.pagetest.AbstractTest -- grid url: http://localhost:4444/wd/hub
+496  [TestNG-tests-2] INFO  com.pagetest.AbstractTest -- grid url: http://localhost:4444/wd/hub
+496  [TestNG-tests-3] INFO  com.pagetest.AbstractTest -- grid url: http://localhost:4444/wd/hub
+4095 [TestNG-tests-3] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/john.json
+10579 [TestNG-tests-3] INFO  c.pages.vendorportal.DashboardPage -- Result Count >0
+680  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: config/default.properties
+686  [main] INFO  com.pagetest.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+686  [main] INFO  com.pagetest.util.Config -- browser=firefox
+686  [main] INFO  com.pagetest.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+686  [main] INFO  com.pagetest.util.Config -- selenium.grid.enabled=true
+686  [main] INFO  com.pagetest.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+686  [main] INFO  com.pagetest.util.Config -- selenium.grid.hubHost=localhost
+794  [TestNG-tests-3] INFO  com.pagetest.AbstractTest -- grid url: http://localhost:4444/wd/hub
+794  [TestNG-tests-1] INFO  com.pagetest.AbstractTest -- grid url: http://localhost:4444/wd/hub
+794  [TestNG-tests-2] INFO  com.pagetest.AbstractTest -- grid url: http://localhost:4444/wd/hub
+44054 [TestNG-tests-1] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/sam.json
+44054 [TestNG-tests-3] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/john.json
+45333 [TestNG-tests-2] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/mike.json
+75087 [TestNG-tests-2] INFO  c.pages.vendorportal.DashboardPage -- Result Count >10
+75226 [TestNG-tests-3] INFO  c.pages.vendorportal.DashboardPage -- Result Count >0
+76575 [TestNG-tests-1] INFO  c.pages.vendorportal.DashboardPage -- Result Count >8
+410  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: config/default.properties
+416  [main] INFO  com.pagetest.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+417  [main] INFO  com.pagetest.util.Config -- browser=chrome
+417  [main] INFO  com.pagetest.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+417  [main] INFO  com.pagetest.util.Config -- selenium.grid.enabled=true
+417  [main] INFO  com.pagetest.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+417  [main] INFO  com.pagetest.util.Config -- selenium.grid.hubHost=localhost
+431  [main] INFO  com.pagetest.AbstractTest -- grid url: http://localhost:4444/wd/hub
+10272 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/sam.json
+40356 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >8
+52625 [main] INFO  com.pagetest.AbstractTest -- grid url: http://localhost:4444/wd/hub
+53353 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/mike.json
+60963 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >10
+73582 [main] INFO  com.pagetest.AbstractTest -- grid url: http://localhost:4444/wd/hub
+74304 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/john.json
+83612 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >0
+302  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: config/default.properties
+308  [main] INFO  com.pagetest.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+308  [main] INFO  com.pagetest.util.Config -- browser=chrome
+308  [main] INFO  com.pagetest.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+308  [main] INFO  com.pagetest.util.Config -- selenium.grid.enabled=true
+308  [main] INFO  com.pagetest.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+308  [main] INFO  com.pagetest.util.Config -- selenium.grid.hubHost=localhost
+320  [main] INFO  com.pagetest.AbstractTest -- grid url: http://localhost:4444/wd/hub
+3015 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/sam.json
+29845 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >8
+41922 [main] INFO  com.pagetest.AbstractTest -- grid url: http://localhost:4444/wd/hub
+42695 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/mike.json
+71912 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >10
+83931 [main] INFO  com.pagetest.AbstractTest -- grid url: http://localhost:4444/wd/hub
+84554 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/john.json
+92226 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >0
+297  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: config/default.properties
+302  [main] INFO  com.pagetest.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+302  [main] INFO  com.pagetest.util.Config -- browser=chrome
+302  [main] INFO  com.pagetest.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+302  [main] INFO  com.pagetest.util.Config -- selenium.grid.enabled=true
+302  [main] INFO  com.pagetest.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+302  [main] INFO  com.pagetest.util.Config -- selenium.grid.hubHost=localhost
+313  [main] INFO  com.pagetest.AbstractTest -- grid url: http://localhost:4444/wd/hub
+2339 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/sam.json
+31865 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >8
+44660 [main] INFO  com.pagetest.AbstractTest -- grid url: http://localhost:4444/wd/hub
+45307 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/mike.json
+92614 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >10
+104632 [main] INFO  com.pagetest.AbstractTest -- grid url: http://localhost:4444/wd/hub
+105261 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/john.json
+112581 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >0
+621  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: config/default.properties
+651  [main] INFO  com.pagetest.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+651  [main] INFO  com.pagetest.util.Config -- browser=chrome
+651  [main] INFO  com.pagetest.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+651  [main] INFO  com.pagetest.util.Config -- selenium.grid.enabled=true
+653  [main] INFO  com.pagetest.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+653  [main] INFO  com.pagetest.util.Config -- selenium.grid.hubHost=localhost
+675  [main] INFO  com.pagetest.AbstractTest -- grid url: http://localhost:4444/wd/hub
+7614 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/sam.json
+35244 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >8
+36420 [main] INFO  com.pagetest.AbstractTest -- grid url: http://localhost:4444/wd/hub
+37138 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/mike.json
+63429 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >10
+64054 [main] INFO  com.pagetest.AbstractTest -- grid url: http://localhost:4444/wd/hub
+64578 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/john.json
+90377 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >0
+379  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: config/default.properties
+384  [main] INFO  com.pagetest.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+385  [main] INFO  com.pagetest.util.Config -- browser=chrome
+385  [main] INFO  com.pagetest.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+385  [main] INFO  com.pagetest.util.Config -- selenium.grid.enabled=true
+385  [main] INFO  com.pagetest.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+385  [main] INFO  com.pagetest.util.Config -- selenium.grid.hubHost=localhost
+396  [main] INFO  com.pagetest.AbstractTest -- grid url: http://localhost:4444/wd/hub
+2240 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/sam.json
+9338 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >8
+359  [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: config/default.properties
+363  [main] INFO  com.pagetest.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+363  [main] INFO  com.pagetest.util.Config -- browser=chrome
+363  [main] INFO  com.pagetest.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+363  [main] INFO  com.pagetest.util.Config -- selenium.grid.enabled=true
+363  [main] INFO  com.pagetest.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+364  [main] INFO  com.pagetest.util.Config -- selenium.grid.hubHost=localhost
+376  [main] INFO  com.pagetest.AbstractTest -- grid url: http://localhost:4444/wd/hub
+1807 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/sam.json
+28382 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >8
+29006 [main] INFO  com.pagetest.AbstractTest -- grid url: http://localhost:4444/wd/hub
+29506 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/mike.json
+55987 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >10
+1521 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: config/default.properties
+1527 [main] INFO  com.pagetest.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+1528 [main] INFO  com.pagetest.util.Config -- browser=chrome
+1528 [main] INFO  com.pagetest.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+1528 [main] INFO  com.pagetest.util.Config -- selenium.grid.enabled=false
+1528 [main] INFO  com.pagetest.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+1529 [main] INFO  com.pagetest.util.Config -- selenium.grid.hubHost=localhost
+4458 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.105 (resolved driver for Chrome 123)
+4565 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe
+11142 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/sam.json
+15845 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >8
+17879 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.105 (resolved driver for Chrome 123)
+17927 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe
+22458 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/mike.json
+27176 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >10
+28824 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 123.0.6312.105 (resolved driver for Chrome 123)
+28873 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\016386\.cache\selenium\chromedriver\win64\123.0.6312.105\chromedriver.exe
+30196 [main] INFO  com.pagetest.util.ResourceLoader -- Reading resource from loader: test-data/vendorportal/john.json
+34149 [main] INFO  c.pages.vendorportal.DashboardPage -- Result Count >0

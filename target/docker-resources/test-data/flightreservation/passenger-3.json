@@ -1,0 +1,11 @@
+{
+	"firstName":"jock",
+	"lastName":"roa",
+	"email":"jock@jr.com",
+	"password":"jock123",
+	"street":"bose street",
+	"city":"las vegas",
+	"zip":"40001",
+	"passengersCount":"3",
+	"expectedPrice":"$1753 USD"
+}
