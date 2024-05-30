@@ -21,8 +21,8 @@ pipeline {
             steps {
                   bat 'docker login -u %DOCKER_HUB_USR% -p %DOCKER_HUB_PSW%'
                   bat "docker push manodock01/selenium:latest"
-                  bat "docker tag dockerprofile/selenium:latest dockerprofile/selenium:%BUILD_NUMBER%"
-                  bat "docker push dockerprofile/selenium:%BUILD_NUMBER%"
+                  bat "docker tag manodock01/selenium:latest manodock01/selenium:%BUILD_NUMBER%"
+                  bat "docker push manodock01/selenium:%BUILD_NUMBER%"
             }
             
         }
