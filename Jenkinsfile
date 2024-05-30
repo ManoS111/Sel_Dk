@@ -9,7 +9,7 @@ pipeline {
         }
          stage('Build Image') {
             steps {
-                bat "docker build -t=manodock01/selenium ."
+                bat "docker build -t=manodock01/selenium:latest ."
             }
             
         }
@@ -20,7 +20,9 @@ pipeline {
 
             steps {
                   bat 'docker login -u %DOCKER_HUB_USR% -p %DOCKER_HUB_PSW%'
-                  bat "docker push manodock01/selenium"
+                  bat "docker push manodock01/selenium:latest"
+                  bat "docker tag manodock01/selenium:latest manodock01/selenium:%env.BUILD_NUMBER%"
+                  bat "docker push manodock01/selenium:%env.BUILD_NUMBER%
             }
             
         }
